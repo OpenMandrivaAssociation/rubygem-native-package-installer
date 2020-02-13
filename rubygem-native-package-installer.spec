@@ -13,6 +13,7 @@ Source0:	http://rubygems.org/gems/%{gem_name}-%{version}.gem
 BuildRequires:	rubygems 
 BuildRequires:  rubygem(pkg-config)
 BuildRequires:  ruby-devel
+BuildRequires:  rubygems-devel
 
 %description
 A package installtion aid
