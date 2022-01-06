@@ -10,6 +10,7 @@ License:	GPLv2+ or Ruby
 URL:		https://rubygems.org/gems/native-package-installer
 Source0:	http://rubygems.org/gems/native-package-installer-%{version}.gem
 BuildRequires:  rubygem-pkg-config
+BuildRequires:	ruby-devel
 
 %description
 A package installtion aid
