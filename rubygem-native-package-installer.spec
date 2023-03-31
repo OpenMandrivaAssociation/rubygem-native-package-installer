@@ -4,7 +4,7 @@
 Summary:	Ruby package installer
 Name:		rubygem-native-package-installer
 Version:	1.1.1
-Release:	1
+Release:	2
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		https://rubygems.org/gems/native-package-installer
